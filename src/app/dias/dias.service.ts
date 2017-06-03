@@ -51,7 +51,7 @@ export class DiasService {
       {dia: 30,frase: "Comprometa-se a nunca mais usar expressões machistas na presença de uma criança.",background: "#8DC796", cor:"#3B3B4E"},
       {dia: 31,frase: "Não use a expressão 'mulata tipo exportação' para elogiar a beleza de uma mulher negra.",background: "#505C60", cor:"#EE9C1F"},
       {dia: 32,frase: "Chame uma mulher negra de negra, isso não é uma ofensa.",background: "#EE9C1F", cor:"#56071F"},
-      {dia: 33,frase: "Volte para o dasafio 1 e repita até tirar o machismo da sua vida.",background: "#644069", cor:"#9BBF96"} 
+      {dia: 33,frase: "Volte para o desafio 1 e repita até tirar o machismo da sua vida.",background: "#644069", cor:"#9BBF96"} 
     ];
 
     return dias;
